@@ -1,0 +1,5 @@
+#pragma once
+
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define JSON_ENDPOINT_URL "http://YOUR_COMPUTER_IP:5000/data"
